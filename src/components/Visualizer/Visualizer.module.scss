@@ -1,0 +1,17 @@
+.visu {
+  position: absolute;
+  top: 50px;
+  background-color: rgba(0, 0, 0, 0.36);
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  width: 140px;
+  padding: 20px 15px;
+  border-radius: 7px;
+  border: 1px solid white;
+
+    .title {
+      font-size: 1rem;
+      color: white;
+    }
+  }
